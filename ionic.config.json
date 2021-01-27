@@ -1,0 +1,7 @@
+{
+  "name": "pruebaImagePicker2021",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
